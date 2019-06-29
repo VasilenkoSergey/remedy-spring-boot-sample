@@ -1,0 +1,1 @@
+# Sample BMC Remedy plugin as a spring boot application
